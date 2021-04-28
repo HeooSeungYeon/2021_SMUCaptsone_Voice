@@ -204,3 +204,15 @@
   1. 03/30일 교수님의 의견을 기반으로, 아이디어 회의를 진행
   2. 회의 결과 총 3가지의 어플 구상 (면접 연습 어플, 한국어 학습 어플, 상담 어플 )
   
+ ## 04/28 회의 내용
+   자연어 처리 성능을 확인하기 위한 실습 코드 조사.
+    1. 딥러닝 음성챗봇 튜토리얼 (https://github.com/aiacademy131/deepbot-tutorial)
+    2. KoreanChatbot (https://github.com/kooyunmo/diya-chat)
+    3. Platform Of neuRal mOdels for natuRal language prOcessing (https://github.com/kakaobrain/pororo)
+    4. 인공지능 챗봇과 딥러닝 자연어 처리 (https://github.com/elymas/ai_chatbot_class)
+    5. 케라스를 이용한 Seq2Seq 챗봇 구현 (https://github.com/deepseasw/seq2seq_chatbot/blob/master/Seq2Seq%20Chatbot.ipynb)
+    6. 한국어 자연어처리를 할 수 있는 파이썬 패키지 - KoNLPy (https://github.com/konlpy/konlpy/blob/master/docs/morph.py)
+    7. 어체변환 모델 (https://github.com/hkhpub/adc-chatbot)
+    8. KorQuAD 데이터 셋 (https://korquad.github.io/)
+    9. 헬로소프트 인공지능 체험/실습 (http://hellosoft.fun/aidemo/)
+    10. 딥러닝과 자연어 처리 정리 (https://github.com/Huffon/NLP101)

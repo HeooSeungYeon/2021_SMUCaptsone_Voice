@@ -224,3 +224,23 @@
     2. ai-hub 데이터 셋 학습 : 민호
     3. 모두의 말뭉치 데이터 셋 학습 : 현구
     4. 정신상담 데이터 셋 조사 (ex. 영문 데이터 셋을 한국어로 번역) : 승연
+
+## 05/17 회의 내용
+  1. **조사 내용**
+      - 어체변환 모델 ([https://github.com/hkhpub/adc-chatbot](https://github.com/hkhpub/adc-chatbot))
+      - 형태소 분석을 이용한 한국어 존비어, 친소어, 문체 변환 코드([https://github.com/dolsup/BanmalMode](https://github.com/dolsup/BanmalMode))
+      - 한국어 문장을 높임말 또는 반말로 바꾸어주는 코드 ([https://github.com/kosohae/AIpjt-1](https://github.com/kosohae/AIpjt-1))
+      - 우울증 식별 대화 데이터 셋 ([https://www.kaggle.com/nupurgopali/depression-data-for-chatbot](https://www.kaggle.com/nupurgopali/depression-data-for-chatbot))
+      - 중국 심리 상담 데이터 셋 ([https://www.kaggle.com/samurais/emotional-first-aid-dataset](https://www.kaggle.com/samurais/emotional-first-aid-dataset))
+      - Ai-hub 어체 변환 데이터 셋 ([https://aihub.or.kr/keti_data_board/expression](https://aihub.or.kr/keti_data_board/expression))
+
+  2. **회의 내용** 
+      - 종강 전에 주제를 정하고, 시스템의 구체적인 구조를 설계.
+      - 심리 상담 챗봇의 성능을 확인하기 위해, 다음주까지 웰니스 데이터 셋의 비어있는 부분 채우기
+          - 각자 500번까지 채워오기
+         
+## 05/24 회의 내용
+  1. **회의 내용**
+      - 역할 분담 :
+          - 어체 변환 코드 조사 및 실행 : 장희진, 허승연
+          - 확장된 웰니스 데이터 셋을 기반으로 챗봇 학습시켜보기 : 이현구, 길민호
